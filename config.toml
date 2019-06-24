@@ -1,11 +1,11 @@
 # hostname (and path) to the root eg. http://spf13.com/
-baseurl = "http://transteph.github.io
+baseurl = "http://www.example.com"
 
 # Site title
-title = "Stephanie Tran"
+title = "sitename"
 
 # Copyright
-copyright = "(c) 2019 Stephanie."
+copyright = "(c) 2015 yourname."
 
 # Language
 languageCode = "en-EN"
@@ -36,7 +36,7 @@ disqusShortname = "your_disqus_shortname"
     topic = "topics"
 
 [author]
-    name = "Stephanie Tran"
+    name = "yourname"
     email = "yourname@example.com"
 
 #
@@ -45,8 +45,8 @@ disqusShortname = "your_disqus_shortname"
 [params]
     # You can use markdown here.
     brand = "foobar"
-    topline = "Stephanie Tran"
-    footline = "Oh Hello"
+    topline = "few words about your site"
+    footline = "code with <i class='fa fa-heart'></i>"
 
     # Text for the top menu link, which goes the root URL for the site.
     # Default (if omitted) is "Home".

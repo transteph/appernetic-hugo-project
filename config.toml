@@ -1,11 +1,11 @@
 # hostname (and path) to the root eg. http://spf13.com/
-baseurl = "http://www.example.com"
+baseurl = "https://transteph.github.io/"
 
 # Site title
-title = "sitename"
+title = "Appernetic Test"
 
 # Copyright
-copyright = "(c) 2015 yourname."
+copyright = "(c) 2019 Testing"
 
 # Language
 languageCode = "en-EN"
